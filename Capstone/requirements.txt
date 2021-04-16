@@ -1,0 +1,12 @@
+uuid
+joblib
+pandas
+sklearn
+matplotlib
+requests
+argparse
+flask
+numpy
+flask
+pandas
+scikit-learn
